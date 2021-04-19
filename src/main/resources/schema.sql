@@ -1,0 +1,1 @@
+create table customer(id number(10),location varchar2(20),email varchar2(20));
